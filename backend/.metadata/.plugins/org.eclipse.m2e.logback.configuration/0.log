@@ -383,3 +383,4 @@
 2021-05-06 19:15:41,242 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
 2021-05-06 19:15:41,246 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2021-05-06 19:15:41,246 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-05-06 19:15:41,247 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Tercílio Fonseca\Desktop\PROJETO-POO\Projeto React - SDS3.0\projeto-vendas-REACT\backend\dsvendas\src\test\resources
