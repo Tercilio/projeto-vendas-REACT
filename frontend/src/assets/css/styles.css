@@ -3,10 +3,20 @@
     --color-primary: #FF8400;
 }
 
+NavBar {
+    background-color: rgb(204, 99, 67);
+}
+
+.text-center text-secondary {
+    color: aliceblue;
+    font-display: var(--color-primary);
+}
+
 html,
 body {
     height: 100%;
     font-family: "Ubuntu", sans-serif;
+    background-color: rgb(8, 7, 8);
 }
 
 #root {
@@ -30,4 +40,10 @@ body {
 
 .text-primary {
     color: var(--color-primary) !important;
+}
+
+.table-responsive {
+    background-color: #f38117;
+    padding-bottom: 2rem;
+    margin-bottom: 5%;
 }
